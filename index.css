@@ -1,0 +1,24 @@
+html,body,h1,h2,h3,h4,h5,h6,div,dl,dt,dd,ul,ol,li,p,blockquote,pre,hr,figure,table,caption,th,td,form,fieldset,legend,input,button,textarea,menu{margin:0;padding:0;}
+html,body,fieldset,img,iframe,abbr{border:0;}
+li{list-style:none;}a,a:hover{text-decoration:none;}
+body{font:12px/1.14 arial,\5b8b\4f53;color:#333;outline:0; background:#fff;}
+a,a:hover{color:#333;}
+
+.VBody{background-color:#616161;}
+.main{width:1004px;height:1171px; background: url(image/bg.png) no-repeat top center;margin:0 auto;position: relative;}
+#list_009 li { width: 108px; height: 88px;position: absolute;cursor: pointer;}
+#list_009 .tielu1{top: 592px;left: 115px;}
+#list_009 .tielu2{top:566px;left:510px;}
+#list_009 .tielu3{top:662px;left:426px;}
+#list_009 .tielu4{top:612px;left:720px;}
+#list_009 .tielu5{top:743px;left:670px;}
+#list_009 .tielu6{top:788px;left:800px;}
+#showhidediv{width:418px;height:146px; position:absolute;z-index:999;top: 320px;left: 566px;}
+#showhidediv .showhideimg{width:418px;height:146px; display:none;background-color:#fff;-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; }
+#showhidediv .showhideimg img{overflow:hidden;width:80px;height:100px;margin:20px 10px;float: left;}
+#showhidediv .showhideimg p{float: left;font-size:15px;margin: 10px auto;line-height: 40px;width:288px;}
+#showhidediv .showhideimg span{float: left;font-size:12px; width:288px; line-height:23px;}
+#notimg{background: none !important;height:292px; width:144px; height:418px; }
+#showhidediv .imgbox{width:418px;height:146px; background-color:#fff;-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; margin-bottom:5px;}
+
+#changpage{position:absolute; bottom:0px;width:1004px;height:107px;}
